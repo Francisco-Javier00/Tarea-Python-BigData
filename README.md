@@ -25,20 +25,3 @@ Tarea-Python-BigData/
 ```
 
 Los documentos están disponibles en `Apartado1/Creacion_GitHub.pdf` y `Apartado3/Competicion_Kaggle.pdf`. El dataset descargado de Kaggle se encuentra en `Apartado3/titanic/`.
-
-## Ejecutar los ejercicios
-
-Se necesita Python 3. Abre una terminal en la carpeta del repositorio y ejecuta:
-
-```sh
-cd Apartado2
-python problema1.py
-python problema2.py
-python problema3.py
-```
-
-- **Problema 1:** elimina números negativos y repetidos, y ordena el resultado.
-- **Problema 2:** cuenta las palabras indicadas en `texto.txt` y muestra sus frecuencias por orden alfabético. Ejecútalo desde `Apartado2` para que encuentre el fichero.
-- **Problema 3:** calcula la intersección, unión y diferencia simétrica utilizando conjuntos.
-
-En los problemas 1 y 3, introduce los números separados por espacios cuando se soliciten.
