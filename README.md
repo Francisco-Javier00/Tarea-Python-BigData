@@ -17,10 +17,14 @@ Tarea-Python-BigData/
 │   ├── problema3.py
 │   └── texto.txt
 └── Apartado3/
-    └── Competicion_Kaggle.pdf
+    ├── Competicion_Kaggle.pdf
+    └── titanic/
+        ├── gender_submission.csv
+        ├── test.csv
+        └── train.csv
 ```
 
-El documento de Kaggle ya está disponible en `Apartado3/Competicion_Kaggle.pdf`. Falta incorporar `Apartado1/Creacion_GitHub.pdf`; su carpeta aparecerá en GitHub al subirlo.
+Los documentos están disponibles en `Apartado1/Creacion_GitHub.pdf` y `Apartado3/Competicion_Kaggle.pdf`. El dataset descargado de Kaggle se encuentra en `Apartado3/titanic/`.
 
 ## Ejecutar los ejercicios
 
