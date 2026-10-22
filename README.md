@@ -20,7 +20,7 @@ Tarea-Python-BigData/
     └── Competicion_Kaggle.pdf
 ```
 
-Los dos PDF están pendientes de incorporación. Sus carpetas aparecerán en GitHub al subir los documentos.
+El documento de Kaggle ya está disponible en `Apartado3/Competicion_Kaggle.pdf`. Falta incorporar `Apartado1/Creacion_GitHub.pdf`; su carpeta aparecerá en GitHub al subirlo.
 
 ## Ejecutar los ejercicios
 
