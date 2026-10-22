@@ -30,7 +30,7 @@ def conteoPalabras(ruta, listaPalabras):
 
 # Llamada a la funcion
 listaPalabras=["numero","2","prueba","abecedario"]
-numeroVeces=conteoPalabras("archivo.txt", listaPalabras)
+numeroVeces=conteoPalabras("texto.txt", listaPalabras)
 for palabra in sorted(numeroVeces):
     print(palabra,":",numeroVeces[palabra])
 
